@@ -1,7 +1,15 @@
 # Chatspambot
-Ein simpler Chatspambot programmiert mit Visual Basic Script.
 
-Öffne die Chatspam.vbs Datei mit einem Doppelklick.
-Nun trägst du ein welche Nachricht du spammen willst, und wie oft sie gespammt werden soll.
-Dann gehst du zu dem Nachrichtenfenster wo die Nachrichten gespammt werden sollen(z.B: Skype, Whatsapp usw.),damit der Bot weiß wo er spammen muss.
-Fertig! Nun genieße den Chatspambot.
+## About
+A simple Chatspambot writen in Visual Basic Script.
+
+## Getting Started
+1. Open the Chatspam.vbs with Doubleclick
+2. Now just write which and how often the bot should spam the message
+3. Go to the Window to spamm, so the bot shuld spamm in a Text input field
+4. Enjoy
+
+## Project structure
+Project
+├── README.md
+└── Chatspam.vbs
