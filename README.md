@@ -9,5 +9,5 @@ Fertig! Nun genieße den Chatspambot.
 Open the Chatspam.vbs file with a doubleclick.
 Now write which message you want to spam.
 Now type in how many times you want the message to spam.
-Then you go to your window where you want to spam (Skype, Whatsapp,...), so the bot knows where he has to spam.
+Then you go to your window where you want to spam (Skype, Whatsapp,Discord,...), so the bot knows where he has to spam.
 Now enjoy the attack! ;)
